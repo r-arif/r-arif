@@ -1,7 +1,5 @@
 # Welcome to Raiba's GitHub Profile
 
-![Raiba's GitHub Profile]
-
 ## About Me
 
 Hello, I'm Raiba, a 24-year-old based in Birmingham. I work as a Data Modeller and I'm currently undergoing a data science bootcamp with CoGrammar. I'm passionate about improving my Python skills and exploring data science projects. 
