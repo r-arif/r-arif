@@ -1,16 +1,32 @@
-### Hi there 👋
+# Welcome to Raiba's GitHub Profile
 
-<!--
-**r-arif/r-arif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Raiba's GitHub Profile](https://avatars.githubusercontent.com/u/12345678?s=400&u=abcdef1234567890abcdef1234567890&v=4)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Raiba, a 24-year-old based in Birmingham. I work as a Data Modeller and I'm currently undergoing a data science bootcamp with CoGrammar. I'm passionate about improving my Python skills and exploring data science projects. 
+
+## What I'm Working On
+
+- **Data Modelling**: I work with clients to manage data and resolve issues.
+- **Data Science Bootcamp**: I'm participating in a bootcamp to enhance my data science skills.
+- **Python Projects**: I'm building projects to practice and improve my coding skills in Python.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/raiba-arif-974b6622a/)
+- [Email](mailto:arifraiba@gmail.com)
+
+
+## Goals for the Future
+
+I'm looking to:
+
+- Contribute to open-source projects in data science.
+- Create a portfolio of data science projects to showcase my skills.
+- Learn advanced Python libraries like Pandas, NumPy, and Scikit-learn.
+
+## Contact Me
+
+Feel free to reach out to me if you have any questions or opportunities you'd like to discuss. I'm open to collaborating on interesting projects or discussing data science topics.
+
