@@ -1,6 +1,6 @@
 # Welcome to Raiba's GitHub Profile
 
-![Raiba's GitHub Profile](https://avatars.githubusercontent.com/u/12345678?s=400&u=abcdef1234567890abcdef1234567890&v=4)
+![Raiba's GitHub Profile]
 
 ## About Me
 
